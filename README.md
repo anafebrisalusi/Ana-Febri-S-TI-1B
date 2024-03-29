@@ -33,3 +33,6 @@ besar, atau mengatur tata letak dari elemen-elemen tersebut. Contoh codingan di 
 halaman web bisa berinteraksi dengan pengguna. Anda bisa menggunakan JavaScript untuk membuat animasi, memvalidasi formulir,
 atau bahkan membuat permainan di halaman web Anda. Ini memberikan kemampuan untuk menanggapi tindakan pengguna, seperti mengklik tombol
 atau mengisi formulir, dan melakukan sesuatu berdasarkan tindakan tersebut, tanpa harus memuat ulang halaman.
+contoh codingan boolean di Javascript
+![Screenshot 2024-03-29 182925](https://github.com/anafebrisalusi/Ana-Febri-S-TI-1B/assets/165301550/6894450e-7fd4-4555-8959-05b3e7382018)
+
