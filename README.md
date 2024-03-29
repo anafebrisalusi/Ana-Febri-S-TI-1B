@@ -15,17 +15,21 @@ Ini seperti kerangka atau tulang belakang yang menentukan bagaimana konten akan 
  
 + untuk membuat HTML harus diawali dengan !DOCTYPE html dan diakhiri dengan /html
  + di dalam HTML ada head dan body
-   h1/h1 digunakan untuk judul
-   p /p digunakan untuk paragraf
+
++ h1/h1 digunakan untuk judul
+  + p /p digunakan untuk paragraf
 
 
 
 
 3. CSS (Cascading Style Sheets) adalah cara untuk membuat halaman web terlihat keren. Ini adalah cara untuk mengatur warna, 
 ukuran, dan posisi dari elemen-elemen di halaman web. Misalnya, Anda dapat membuat teks berwarna biru, membuat gambar lebih 
-besar, atau mengatur tata letak dari elemen-elemen tersebut.
+besar, atau mengatur tata letak dari elemen-elemen tersebut. Contoh codingan di CSS
+![Screenshot 2024-03-29 182846](https://github.com/anafebrisalusi/Ana-Febri-S-TI-1B/assets/165301550/24d6e880-b64a-4095-b5f7-0f6e4cdb30c9)
 
-4. JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web menjadi hidup. Ini adalah apa yang membuat
+
+
+5. JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web menjadi hidup. Ini adalah apa yang membuat
 halaman web bisa berinteraksi dengan pengguna. Anda bisa menggunakan JavaScript untuk membuat animasi, memvalidasi formulir,
 atau bahkan membuat permainan di halaman web Anda. Ini memberikan kemampuan untuk menanggapi tindakan pengguna, seperti mengklik tombol
 atau mengisi formulir, dan melakukan sesuatu berdasarkan tindakan tersebut, tanpa harus memuat ulang halaman.
