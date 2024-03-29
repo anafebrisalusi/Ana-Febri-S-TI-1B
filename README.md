@@ -9,6 +9,8 @@
 
 1. HTML (HyperText Markup Language) adalah bahasa yang digunakan untuk membuat struktur dasar halaman web. 
 Ini seperti kerangka atau tulang belakang yang menentukan bagaimana konten akan ditempatkan di halaman web, seperti teks, gambar, dan tombol.
+![Uploading Screenshot 2024-03-29 181510.png…]()
+
 
 
 3. CSS (Cascading Style Sheets) adalah cara untuk membuat halaman web terlihat keren. Ini adalah cara untuk mengatur warna, 
