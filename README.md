@@ -17,7 +17,7 @@ Ini seperti kerangka atau tulang belakang yang menentukan bagaimana konten akan 
  + di dalam HTML ada head dan body
 
 + h1/h1 digunakan untuk judul
-  + p /p digunakan untuk paragraf
++ p /p digunakan untuk paragraf
 
 
 
@@ -26,6 +26,7 @@ Ini seperti kerangka atau tulang belakang yang menentukan bagaimana konten akan 
 ukuran, dan posisi dari elemen-elemen di halaman web. Misalnya, Anda dapat membuat teks berwarna biru, membuat gambar lebih 
 besar, atau mengatur tata letak dari elemen-elemen tersebut. Contoh codingan di CSS
 ![Screenshot 2024-03-29 182846](https://github.com/anafebrisalusi/Ana-Febri-S-TI-1B/assets/165301550/24d6e880-b64a-4095-b5f7-0f6e4cdb30c9)
+
 
 
 
