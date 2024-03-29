@@ -9,7 +9,15 @@
 
 1. HTML (HyperText Markup Language) adalah bahasa yang digunakan untuk membuat struktur dasar halaman web. 
 Ini seperti kerangka atau tulang belakang yang menentukan bagaimana konten akan ditempatkan di halaman web, seperti teks, gambar, dan tombol.
-![Uploading Screenshot 2024-03-29 181510.png…]()
+![Screenshot 2024-03-29 181510](https://github.com/anafebrisalusi/Ana-Febri-S-TI-1B/assets/165301550/bc9a75df-d33d-48f1-b77d-6df8636fac49)
+ 
+ ini adalah contoh basic dokumen html.
+ 
++ untuk membuat HTML harus diawali dengan !DOCTYPE html dan diakhiri dengan /html
+ + di dalam HTML ada head dan body
+   h1/h1 digunakan untuk judul
+   p /p digunakan untuk paragraf
+
 
 
 
